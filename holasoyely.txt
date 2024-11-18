@@ -1,2 +1,4 @@
-Hola, soy Ely.
-¿Qué tal?
+Hola, Git!
+Soy Ely. ¿Qué tal?
+¡Pronto es Navidad! !Hablamos!
+Saludos.
