@@ -1,4 +1,5 @@
 Hola, Git!
 Soy Ely. ¿Qué tal?
-¡Pronto es Navidad! !Hablamos!
+Se acerca el frío y ¡pronto es Navidad! 
+
 Saludos.
